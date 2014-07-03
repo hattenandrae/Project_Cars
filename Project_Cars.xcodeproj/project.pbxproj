@@ -7,6 +7,22 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2D74D0A517F5D8DF0047961A /* Jag XJ.png in Resources */ = {isa = PBXBuildFile; fileRef = 2D74D09E17F5D8DF0047961A /* Jag XJ.png */; };
+		2D74D0A617F5D8DF0047961A /* R-R Phantonm.png in Resources */ = {isa = PBXBuildFile; fileRef = 2D74D09F17F5D8DF0047961A /* R-R Phantonm.png */; };
+		2D74D0A717F5D8DF0047961A /*  458 Italia.png in Resources */ = {isa = PBXBuildFile; fileRef = 2D74D0A017F5D8DF0047961A /*  458 Italia.png */; };
+		2D74D0A917F5D8DF0047961A /* 7 Series.png in Resources */ = {isa = PBXBuildFile; fileRef = 2D74D0A217F5D8DF0047961A /* 7 Series.png */; };
+		2D74D0AA17F5D8DF0047961A /* DBS.png in Resources */ = {isa = PBXBuildFile; fileRef = 2D74D0A317F5D8DF0047961A /* DBS.png */; };
+		2D74D0AB17F5D8DF0047961A /* Continental GT.png in Resources */ = {isa = PBXBuildFile; fileRef = 2D74D0A417F5D8DF0047961A /* Continental GT.png */; };
+		2DCC3A1517FB43DA001FE122 /* PASSAT.png in Resources */ = {isa = PBXBuildFile; fileRef = 2DCC3A1417FB43DA001FE122 /* PASSAT.png */; };
+		2DCC3A1B17FB466A001FE122 /* ASTON MARTIN.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 2DCC3A1A17FB466A001FE122 /* ASTON MARTIN.jpeg */; };
+		2DCC3A1F17FB4CFE001FE122 /* FERRARI.png in Resources */ = {isa = PBXBuildFile; fileRef = 2DCC3A1E17FB4CFE001FE122 /* FERRARI.png */; };
+		2DCC3A2117FB5168001FE122 /* 458.png in Resources */ = {isa = PBXBuildFile; fileRef = 2DCC3A2017FB5168001FE122 /* 458.png */; };
+		2DCC3A2317FB63DF001FE122 /* VWP.png in Resources */ = {isa = PBXBuildFile; fileRef = 2DCC3A2217FB63DF001FE122 /* VWP.png */; };
+		2DCC3A2517FB646B001FE122 /* XJ.png in Resources */ = {isa = PBXBuildFile; fileRef = 2DCC3A2417FB646B001FE122 /* XJ.png */; };
+		2DCC3A2717FB654F001FE122 /* C_GT.png in Resources */ = {isa = PBXBuildFile; fileRef = 2DCC3A2617FB654F001FE122 /* C_GT.png */; };
+		2DCC3A2B17FB661D001FE122 /* RR.png in Resources */ = {isa = PBXBuildFile; fileRef = 2DCC3A2A17FB661D001FE122 /* RR.png */; };
+		2DCC3A2D17FB668F001FE122 /* A MARTIN.png in Resources */ = {isa = PBXBuildFile; fileRef = 2DCC3A2C17FB668F001FE122 /* A MARTIN.png */; };
+		2DCC3A2F17FB66E3001FE122 /* 7S.png in Resources */ = {isa = PBXBuildFile; fileRef = 2DCC3A2E17FB66E3001FE122 /* 7S.png */; };
 		2DD3E38417F49E630090CACF /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2DD3E38317F49E630090CACF /* Foundation.framework */; };
 		2DD3E38617F49E630090CACF /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2DD3E38517F49E630090CACF /* CoreGraphics.framework */; };
 		2DD3E38817F49E630090CACF /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2DD3E38717F49E630090CACF /* UIKit.framework */; };
@@ -21,6 +37,20 @@
 		2DD3E3A517F49E630090CACF /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2DD3E38717F49E630090CACF /* UIKit.framework */; };
 		2DD3E3AD17F49E630090CACF /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 2DD3E3AB17F49E630090CACF /* InfoPlist.strings */; };
 		2DD3E3AF17F49E630090CACF /* Project_CarsTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 2DD3E3AE17F49E630090CACF /* Project_CarsTests.m */; };
+		2DD3E3B917F4A04A0090CACF /* CAR BACKGROUND.png in Resources */ = {isa = PBXBuildFile; fileRef = 2DD3E3B817F4A04A0090CACF /* CAR BACKGROUND.png */; };
+		2DD3E3DD17F4ACB10090CACF /* MONDAY.png in Resources */ = {isa = PBXBuildFile; fileRef = 2DD3E3D617F4ACB10090CACF /* MONDAY.png */; };
+		2DD3E3E517F4AFDA0090CACF /* Screen Shot 2013-09-26 at 1.08.35 PM.png in Resources */ = {isa = PBXBuildFile; fileRef = 2DD3E3E417F4AFDA0090CACF /* Screen Shot 2013-09-26 at 1.08.35 PM.png */; };
+		2DD3E3EC17F4B33F0090CACF /* SUNDAY.png in Resources */ = {isa = PBXBuildFile; fileRef = 2DD3E3E617F4B33F0090CACF /* SUNDAY.png */; };
+		2DD3E3ED17F4B33F0090CACF /* SATURDAY.png in Resources */ = {isa = PBXBuildFile; fileRef = 2DD3E3E717F4B33F0090CACF /* SATURDAY.png */; };
+		2DD3E3EE17F4B33F0090CACF /* FRIDAY.png in Resources */ = {isa = PBXBuildFile; fileRef = 2DD3E3E817F4B33F0090CACF /* FRIDAY.png */; };
+		2DD3E3EF17F4B33F0090CACF /* THURSDAY.png in Resources */ = {isa = PBXBuildFile; fileRef = 2DD3E3E917F4B33F0090CACF /* THURSDAY.png */; };
+		2DD3E3F017F4B33F0090CACF /* WEDNESDAY.png in Resources */ = {isa = PBXBuildFile; fileRef = 2DD3E3EA17F4B33F0090CACF /* WEDNESDAY.png */; };
+		2DD3E3F117F4B33F0090CACF /* TUESDAY.png in Resources */ = {isa = PBXBuildFile; fileRef = 2DD3E3EB17F4B33F0090CACF /* TUESDAY.png */; };
+		2DD3E3FA17F4B6C90090CACF /* JAGUAR.png in Resources */ = {isa = PBXBuildFile; fileRef = 2DD3E3F317F4B6C90090CACF /* JAGUAR.png */; };
+		2DD3E3FC17F4B6C90090CACF /* ROLLS-ROYCE.png in Resources */ = {isa = PBXBuildFile; fileRef = 2DD3E3F517F4B6C90090CACF /* ROLLS-ROYCE.png */; };
+		2DD3E3FD17F4B6C90090CACF /* BENTLEY.png in Resources */ = {isa = PBXBuildFile; fileRef = 2DD3E3F617F4B6C90090CACF /* BENTLEY.png */; };
+		2DD3E3FE17F4B6C90090CACF /* BMW.png in Resources */ = {isa = PBXBuildFile; fileRef = 2DD3E3F717F4B6C90090CACF /* BMW.png */; };
+		2DDE585017FC983E0086BD75 /* PIC1.png in Resources */ = {isa = PBXBuildFile; fileRef = 2DDE584F17FC983E0086BD75 /* PIC1.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -34,6 +64,22 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		2D74D09E17F5D8DF0047961A /* Jag XJ.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Jag XJ.png"; sourceTree = "<group>"; };
+		2D74D09F17F5D8DF0047961A /* R-R Phantonm.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "R-R Phantonm.png"; sourceTree = "<group>"; };
+		2D74D0A017F5D8DF0047961A /*  458 Italia.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = " 458 Italia.png"; sourceTree = "<group>"; };
+		2D74D0A217F5D8DF0047961A /* 7 Series.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "7 Series.png"; sourceTree = "<group>"; };
+		2D74D0A317F5D8DF0047961A /* DBS.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = DBS.png; sourceTree = "<group>"; };
+		2D74D0A417F5D8DF0047961A /* Continental GT.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Continental GT.png"; sourceTree = "<group>"; };
+		2DCC3A1417FB43DA001FE122 /* PASSAT.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = PASSAT.png; sourceTree = "<group>"; };
+		2DCC3A1A17FB466A001FE122 /* ASTON MARTIN.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "ASTON MARTIN.jpeg"; sourceTree = "<group>"; };
+		2DCC3A1E17FB4CFE001FE122 /* FERRARI.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = FERRARI.png; sourceTree = "<group>"; };
+		2DCC3A2017FB5168001FE122 /* 458.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 458.png; sourceTree = "<group>"; };
+		2DCC3A2217FB63DF001FE122 /* VWP.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = VWP.png; sourceTree = "<group>"; };
+		2DCC3A2417FB646B001FE122 /* XJ.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = XJ.png; sourceTree = "<group>"; };
+		2DCC3A2617FB654F001FE122 /* C_GT.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = C_GT.png; sourceTree = "<group>"; };
+		2DCC3A2A17FB661D001FE122 /* RR.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = RR.png; sourceTree = "<group>"; };
+		2DCC3A2C17FB668F001FE122 /* A MARTIN.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "A MARTIN.png"; sourceTree = "<group>"; };
+		2DCC3A2E17FB66E3001FE122 /* 7S.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 7S.png; sourceTree = "<group>"; };
 		2DD3E38017F49E630090CACF /* Project_Cars.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Project_Cars.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		2DD3E38317F49E630090CACF /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		2DD3E38517F49E630090CACF /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -53,6 +99,20 @@
 		2DD3E3AA17F49E630090CACF /* Project_CarsTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Project_CarsTests-Info.plist"; sourceTree = "<group>"; };
 		2DD3E3AC17F49E630090CACF /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		2DD3E3AE17F49E630090CACF /* Project_CarsTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Project_CarsTests.m; sourceTree = "<group>"; };
+		2DD3E3B817F4A04A0090CACF /* CAR BACKGROUND.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "CAR BACKGROUND.png"; sourceTree = "<group>"; };
+		2DD3E3D617F4ACB10090CACF /* MONDAY.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = MONDAY.png; sourceTree = "<group>"; };
+		2DD3E3E417F4AFDA0090CACF /* Screen Shot 2013-09-26 at 1.08.35 PM.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Screen Shot 2013-09-26 at 1.08.35 PM.png"; sourceTree = "<group>"; };
+		2DD3E3E617F4B33F0090CACF /* SUNDAY.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = SUNDAY.png; sourceTree = "<group>"; };
+		2DD3E3E717F4B33F0090CACF /* SATURDAY.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = SATURDAY.png; sourceTree = "<group>"; };
+		2DD3E3E817F4B33F0090CACF /* FRIDAY.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = FRIDAY.png; sourceTree = "<group>"; };
+		2DD3E3E917F4B33F0090CACF /* THURSDAY.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = THURSDAY.png; sourceTree = "<group>"; };
+		2DD3E3EA17F4B33F0090CACF /* WEDNESDAY.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = WEDNESDAY.png; sourceTree = "<group>"; };
+		2DD3E3EB17F4B33F0090CACF /* TUESDAY.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = TUESDAY.png; sourceTree = "<group>"; };
+		2DD3E3F317F4B6C90090CACF /* JAGUAR.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = JAGUAR.png; sourceTree = "<group>"; };
+		2DD3E3F517F4B6C90090CACF /* ROLLS-ROYCE.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ROLLS-ROYCE.png"; sourceTree = "<group>"; };
+		2DD3E3F617F4B6C90090CACF /* BENTLEY.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = BENTLEY.png; sourceTree = "<group>"; };
+		2DD3E3F717F4B6C90090CACF /* BMW.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = BMW.png; sourceTree = "<group>"; };
+		2DDE584F17FC983E0086BD75 /* PIC1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = PIC1.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -127,6 +187,36 @@
 			isa = PBXGroup;
 			children = (
 				2DD3E38B17F49E630090CACF /* Project_Cars-Info.plist */,
+				2DD3E3B817F4A04A0090CACF /* CAR BACKGROUND.png */,
+				2DD3E3D617F4ACB10090CACF /* MONDAY.png */,
+				2DD3E3E617F4B33F0090CACF /* SUNDAY.png */,
+				2DD3E3E717F4B33F0090CACF /* SATURDAY.png */,
+				2DD3E3E817F4B33F0090CACF /* FRIDAY.png */,
+				2DCC3A1E17FB4CFE001FE122 /* FERRARI.png */,
+				2DD3E3E917F4B33F0090CACF /* THURSDAY.png */,
+				2DD3E3EA17F4B33F0090CACF /* WEDNESDAY.png */,
+				2DD3E3EB17F4B33F0090CACF /* TUESDAY.png */,
+				2DD3E3F317F4B6C90090CACF /* JAGUAR.png */,
+				2DD3E3F517F4B6C90090CACF /* ROLLS-ROYCE.png */,
+				2DCC3A1A17FB466A001FE122 /* ASTON MARTIN.jpeg */,
+				2DDE584F17FC983E0086BD75 /* PIC1.png */,
+				2DCC3A1417FB43DA001FE122 /* PASSAT.png */,
+				2DD3E3F617F4B6C90090CACF /* BENTLEY.png */,
+				2DD3E3F717F4B6C90090CACF /* BMW.png */,
+				2D74D09E17F5D8DF0047961A /* Jag XJ.png */,
+				2D74D09F17F5D8DF0047961A /* R-R Phantonm.png */,
+				2D74D0A017F5D8DF0047961A /*  458 Italia.png */,
+				2DCC3A2017FB5168001FE122 /* 458.png */,
+				2DCC3A2617FB654F001FE122 /* C_GT.png */,
+				2DCC3A2417FB646B001FE122 /* XJ.png */,
+				2DCC3A2C17FB668F001FE122 /* A MARTIN.png */,
+				2DCC3A2217FB63DF001FE122 /* VWP.png */,
+				2DCC3A2E17FB66E3001FE122 /* 7S.png */,
+				2DCC3A2A17FB661D001FE122 /* RR.png */,
+				2D74D0A217F5D8DF0047961A /* 7 Series.png */,
+				2D74D0A317F5D8DF0047961A /* DBS.png */,
+				2D74D0A417F5D8DF0047961A /* Continental GT.png */,
+				2DD3E3E417F4AFDA0090CACF /* Screen Shot 2013-09-26 at 1.08.35 PM.png */,
 				2DD3E38C17F49E630090CACF /* InfoPlist.strings */,
 				2DD3E38F17F49E630090CACF /* main.m */,
 				2DD3E39117F49E630090CACF /* Project_Cars-Prefix.pch */,
@@ -228,9 +318,39 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2DCC3A2317FB63DF001FE122 /* VWP.png in Resources */,
+				2DCC3A2117FB5168001FE122 /* 458.png in Resources */,
+				2DD3E3FE17F4B6C90090CACF /* BMW.png in Resources */,
+				2DDE585017FC983E0086BD75 /* PIC1.png in Resources */,
+				2DCC3A2F17FB66E3001FE122 /* 7S.png in Resources */,
+				2DCC3A2517FB646B001FE122 /* XJ.png in Resources */,
+				2DCC3A1B17FB466A001FE122 /* ASTON MARTIN.jpeg in Resources */,
+				2D74D0A917F5D8DF0047961A /* 7 Series.png in Resources */,
+				2D74D0A517F5D8DF0047961A /* Jag XJ.png in Resources */,
+				2DD3E3EF17F4B33F0090CACF /* THURSDAY.png in Resources */,
+				2DD3E3F017F4B33F0090CACF /* WEDNESDAY.png in Resources */,
+				2DD3E3EC17F4B33F0090CACF /* SUNDAY.png in Resources */,
+				2DD3E3FA17F4B6C90090CACF /* JAGUAR.png in Resources */,
+				2D74D0AA17F5D8DF0047961A /* DBS.png in Resources */,
 				2DD3E39C17F49E630090CACF /* Images.xcassets in Resources */,
+				2DD3E3FD17F4B6C90090CACF /* BENTLEY.png in Resources */,
+				2DD3E3F117F4B33F0090CACF /* TUESDAY.png in Resources */,
+				2DCC3A2D17FB668F001FE122 /* A MARTIN.png in Resources */,
 				2DD3E38E17F49E630090CACF /* InfoPlist.strings in Resources */,
+				2DD3E3ED17F4B33F0090CACF /* SATURDAY.png in Resources */,
+				2DCC3A2B17FB661D001FE122 /* RR.png in Resources */,
+				2DD3E3DD17F4ACB10090CACF /* MONDAY.png in Resources */,
+				2DD3E3EE17F4B33F0090CACF /* FRIDAY.png in Resources */,
 				2DD3E39717F49E630090CACF /* Main.storyboard in Resources */,
+				2DD3E3FC17F4B6C90090CACF /* ROLLS-ROYCE.png in Resources */,
+				2D74D0A617F5D8DF0047961A /* R-R Phantonm.png in Resources */,
+				2DD3E3B917F4A04A0090CACF /* CAR BACKGROUND.png in Resources */,
+				2D74D0AB17F5D8DF0047961A /* Continental GT.png in Resources */,
+				2DD3E3E517F4AFDA0090CACF /* Screen Shot 2013-09-26 at 1.08.35 PM.png in Resources */,
+				2DCC3A1F17FB4CFE001FE122 /* FERRARI.png in Resources */,
+				2D74D0A717F5D8DF0047961A /*  458 Italia.png in Resources */,
+				2DCC3A1517FB43DA001FE122 /* PASSAT.png in Resources */,
+				2DCC3A2717FB654F001FE122 /* C_GT.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -460,6 +580,7 @@
 				2DD3E3B417F49E630090CACF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		2DD3E3B517F49E630090CACF /* Build configuration list for PBXNativeTarget "Project_CarsTests" */ = {
 			isa = XCConfigurationList;
@@ -468,6 +589,7 @@
 				2DD3E3B717F49E630090CACF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
